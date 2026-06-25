@@ -35,5 +35,5 @@ for (let i = 0; i < commits.length; i++) {
   execSync("git add .");
   execSync(git commit -m "${name}");
 
-  console.log(Committed: ${name});
+  console.log(Committed: ${name}); good luck 
 }
