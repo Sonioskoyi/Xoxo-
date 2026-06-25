@@ -37,3 +37,4 @@ for (let i = 0; i < commits.length; i++) {
 
   console.log(Committed: ${name}); good luck best
 }
+console.log("start app")
