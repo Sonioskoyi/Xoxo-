@@ -1,2 +1,1 @@
-npm install express
-
+app.listen(3000)
