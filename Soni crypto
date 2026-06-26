@@ -1,1 +1,1 @@
-jwt.sign({id:1})
+user.login()
