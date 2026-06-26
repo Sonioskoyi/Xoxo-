@@ -1,1 +1,1 @@
-useEffect()
+fetch(url)
