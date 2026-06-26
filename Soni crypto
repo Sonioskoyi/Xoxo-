@@ -1,1 +1,1 @@
-fetch(url)
+catch(err)
